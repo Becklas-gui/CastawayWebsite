@@ -507,7 +507,7 @@
 }
 
 .i-pon .text-wrapper-10 {
-  position: fixed;
+  position: relative;
   top: 493px;
   left: 23px;
   font-family: "Inter-Regular", Helvetica;
@@ -521,7 +521,7 @@
 }
 
 .i-pon .text-wrapper-11 {
-  position: fixed;
+  position: relative;
   top: 126px;
   left: 23px;
   font-family: "Inter-Regular", Helvetica;
@@ -533,3 +533,4 @@
   line-height: normal;
   white-space: nowrap;
 }
+
