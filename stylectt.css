@@ -1,0 +1,163 @@
+.ipho {
+  background-color: #232323;
+  width: 100%;
+  min-width: 393px;
+  min-height: 852px;
+  position: relative;
+}
+
+.ipho .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 89px;
+  background-color: #393b4a;
+}
+
+.ipho .keyboard-return {
+  position: absolute;
+  top: 44px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+}
+
+.ipho .icon {
+  position: absolute;
+  width: 75.00%;
+  height: 50.00%;
+  top: 25.00%;
+  left: 12.50%;
+}
+
+.ipho .poster-castaway-logo {
+  position: absolute;
+  top: 35px;
+  left: 121px;
+  width: 152px;
+  height: 58px;
+}
+
+.ipho .div {
+  position: absolute;
+  top: 209px;
+  left: 23px;
+  width: 348px;
+  height: 241px;
+  background-color: #4a4a4a;
+  border-radius: 15px;
+}
+
+.ipho .text-wrapper {
+  position: absolute;
+  top: 128px;
+  left: 23px;
+  width: 348px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #b9b9b9;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ipho .p {
+  position: absolute;
+  top: 489px;
+  left: 23px;
+  width: 348px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #b9b9b9;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ipho .clique-aqui-e-seja {
+  position: absolute;
+  top: 227px;
+  left: 166px;
+  width: 204px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ipho .span {
+  color: #ffffff;
+}
+
+.ipho .text-wrapper-2 {
+  color: #04e2ea;
+}
+
+.ipho .poster-castaway {
+  top: 222px;
+  left: 36px;
+  position: absolute;
+  width: 113px;
+  height: 129px;
+  aspect-ratio: 0.88;
+  object-fit: cover;
+}
+
+.ipho .castaway-oficial-qr {
+  position: absolute;
+  top: 301px;
+  left: 217px;
+  width: 101px;
+  height: 116px;
+  aspect-ratio: 0.87;
+  object-fit: cover;
+}
+
+.ipho .rectangle-2 {
+  position: absolute;
+  top: 547px;
+  left: 22px;
+  width: 348px;
+  height: 241px;
+  background-color: #4a4a4a;
+  border-radius: 15px;
+}
+
+.ipho .clique-aqui-e-seja-2 {
+  position: absolute;
+  top: 565px;
+  left: 165px;
+  width: 204px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ipho .img {
+  top: 560px;
+  left: 35px;
+  position: absolute;
+  width: 113px;
+  height: 129px;
+  aspect-ratio: 0.88;
+  object-fit: cover;
+}
+
+.ipho .figmacastaway {
+  position: absolute;
+  top: 560px;
+  left: 35px;
+  width: 113px;
+  height: 130px;
+  object-fit: cover;
+}

@@ -1,0 +1,97 @@
+.iphone-pro {
+  background-color: #20202a;
+  width: 100%;
+  min-width: 393px;
+  min-height: 852px;
+  position: relative;
+}
+
+.iphone-pro .figmacastaway {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  width: 393px;
+  height: 719px;
+  object-fit: cover;
+}
+
+.iphone-pro .poster-castaway-logo {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  width: 393px;
+  height: 801px;
+  object-fit: cover;
+}
+
+.iphone-pro .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 81px;
+  background-color: #262137;
+}
+
+.iphone-pro .div {
+  position: absolute;
+  top: 800px;
+  left: 0;
+  width: 393px;
+  height: 52px;
+  background-color: #272137;
+}
+
+.iphone-pro .rectangle-2 {
+  position: absolute;
+  top: 687px;
+  left: 224px;
+  width: 161px;
+  height: 79px;
+  background-color: #588dff33;
+  border-radius: 22px;
+  border: 4px solid;
+  border-color: #e8e8e8;
+}
+
+.iphone-pro .rectangle-3 {
+  position: absolute;
+  top: 687px;
+  left: 9px;
+  width: 161px;
+  height: 79px;
+  background-color: #588dff33;
+  border-radius: 22px;
+  border: 4px solid;
+  border-color: #e8e8e8;
+}
+
+.iphone-pro .conhe-a-o-elenco-de {
+  position: absolute;
+  top: 704px;
+  left: 1px;
+  width: 176px;
+  -webkit-text-stroke: 1px #2f2f2f;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro .conhe-a-mais-sobre {
+  position: absolute;
+  top: 704px;
+  left: 234px;
+  width: 140px;
+  -webkit-text-stroke: 1px #2f2f2f;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
